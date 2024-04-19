@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohammad Maqsood</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
-<h4 align="justify">I am an experienced full stack developer and Technical Team Lead with a strong background in JavaScript, NodeJS, React, and GraphQL. Proven track record of successfully leading and contributing to a variety of software development projects. Passionate about leveraging technology to make a positive impact on people's lives. Seeking new opportunities for growth and collaboration in the tech industry</h4>
+<h5 align="justify">I am an experienced full stack developer and Technical Team Lead with a strong background in JavaScript, NodeJS, React, and GraphQL. Proven track record of successfully leading and contributing to a variety of software development projects. Passionate about leveraging technology to make a positive impact on people's lives. Seeking new opportunities for growth and collaboration in the tech industry</h5>
+<h5>Throughout my career, I have honed my expertise in React, a widely-used front-end web development framework. Since 2020, I've dedicated myself to leveraging React to craft dynamic, responsive user interfaces that prioritize user experience. My proficiency extends to navigating the complexities of React, allowing me to construct sophisticated applications. Staying abreast of React's evolving landscape is not just a task, but a passion, as I strive to remain at the forefront of industry trends and updates. Additionally, I have significant experience with Python Django on the backend. Working hand-in-hand with React, I've seamlessly integrated Django to develop robust and scalable web applications. This holistic approach ensures that both frontend and backend components harmonize to deliver optimal performance and functionality. </h5>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maddy1092" alt="maddy1092" /></a> </p>
+<h5>Beyond technical prowess, my strengths lie in communication and collaboration. I thrive in cross-functional teams, fostering an environment where knowledge-sharing is paramount. I am committed to continuous learning and readily contribute my insights to drive innovation.</h5>
+
+<h5>In essence, I embody dedication and meticulousness in software engineering, fueled by a fervor for utilizing technology to enact meaningful change. I eagerly anticipate further growth and the opportunity to contribute to transformative projects within the software engineering domain.</h5>
+
 
 <p align="left"> <a href="https://twitter.com/1092maddy" target="blank"><img src="https://img.shields.io/twitter/follow/1092maddy?logo=twitter&style=for-the-badge" alt="1092maddy" /></a> </p>
 
