@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Maqsood</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h4 align="justify">I am an experienced full stack developer and Technical Team Lead with a strong background in JavaScript, NodeJS, React, and GraphQL. Proven track record of successfully leading and contributing to a variety of software development projects. Passionate about leveraging technology to make a positive impact on people's lives. Seeking new opportunities for growth and collaboration in the tech industry</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maddy1092" alt="maddy1092" /></a> </p>
 
